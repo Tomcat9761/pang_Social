@@ -1,0 +1,12 @@
+server:
+  port: 9000
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.8.33:3336/tensquare_base?characterEncoding=utf‐8 root
+    password: root
+    username: root
+  jpa:
+    database: mysql
+    show-sql: true
