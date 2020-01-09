@@ -4,9 +4,9 @@ server:
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://192.168.8.33:3336/tensquare_base?characterEncoding=utf‐8 root
-    password: root
+    url: jdbc:mysql://192.168.8.33:3336/tensquare_base?useUnicode=true&characterEncoding=UTF-8
     username: root
+    password: root
   jpa:
     database: mysql
     show-sql: true

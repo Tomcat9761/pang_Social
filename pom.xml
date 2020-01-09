@@ -10,6 +10,7 @@
     <modules>
         <module>pang_common</module>
         <module>pang_base</module>
+        <module>pang_recruit</module>
     </modules>
     <packaging>pom</packaging>
 
