@@ -11,6 +11,9 @@
         <module>pang_common</module>
         <module>pang_base</module>
         <module>pang_recruit</module>
+        <module>pang_qa</module>
+        <module>pang_article</module>
+        <module>pang_gathering</module>
     </modules>
     <packaging>pom</packaging>
 

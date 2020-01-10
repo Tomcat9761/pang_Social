@@ -1,0 +1,18 @@
+server: 
+  port: 9003
+spring: 
+  application:  
+    name: pang-article #指定服务名
+  datasource:  
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.8.33:3336/tensquare_article?characterEncoding=UTF8
+    username: root
+    password: root
+  jpa: 
+    database: MySQL
+    show-sql: true
+  #reids
+  redis:
+    host: 192.168.8.33
+    port: 6378
+
