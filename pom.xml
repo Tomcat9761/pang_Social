@@ -14,6 +14,7 @@
         <module>pang_qa</module>
         <module>pang_article</module>
         <module>pang_gathering</module>
+        <module>pang_spit</module>
     </modules>
     <packaging>pom</packaging>
 
