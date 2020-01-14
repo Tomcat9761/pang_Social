@@ -15,6 +15,8 @@
         <module>pang_article</module>
         <module>pang_gathering</module>
         <module>pang_spit</module>
+        <module>pang_search</module>
+        <module>pang_rabbitmqTest</module>
     </modules>
     <packaging>pom</packaging>
 

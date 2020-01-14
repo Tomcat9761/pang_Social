@@ -1,0 +1,9 @@
+server:
+  port: 9006
+spring:
+  application:
+    name: pang_search
+  data:
+    elasticsearch:
+      cluster-nodes: 192.168.8.33:9300
+
