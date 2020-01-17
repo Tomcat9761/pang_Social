@@ -17,6 +17,7 @@
         <module>pang_spit</module>
         <module>pang_search</module>
         <module>pang_rabbitmqTest</module>
+        <module>pang_user</module>
     </modules>
     <packaging>pom</packaging>
 
