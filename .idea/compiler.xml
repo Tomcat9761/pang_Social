@@ -9,14 +9,14 @@
         <module name="pang_article" />
         <module name="pang_base" />
         <module name="pang_rabbitmqTest" />
-        <module name="pang_qa" />
         <module name="pang_gathering" />
+        <module name="pang_sms" />
         <module name="pang_user" />
         <module name="pang_user (1)" />
         <module name="pang_search" />
         <module name="pang_spit" />
         <module name="pang_common" />
-        <module name="pang_sms" />
+        <module name="pang_qa" />
       </profile>
     </annotationProcessing>
   </component>
