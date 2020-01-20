@@ -1,5 +1,5 @@
 server: 
-  port: 9007
+  port: 9008
 spring: 
   application:  
     name: pang-user #指定服务名
@@ -19,3 +19,9 @@ spring:
   redis:
     host: 192.168.8.33
     port: 6378
+
+#jwt
+jwt:
+  config:
+    key: pang
+    ttl: 360000000
