@@ -1,0 +1,14 @@
+server:
+  port: 9008
+
+spring:
+  rabbitmq:
+    host: 192.168.8.33
+    port: 5672
+
+aliyun:
+  sms:
+    accessKeyId: LTAI4Fng2KGMTC4GT6rGajSQ #创建的accesskey中的AccessKey ID
+    accessKeySecret: Wbb9LymqfEMM5mXlnTlF0dzjaYnndB #创建的accesskey中的Access Key Secret
+    template_code: SMS_182682742 #模板管理中的模板CODE
+    sign_name: OATS #签名管理中的签名

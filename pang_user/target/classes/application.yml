@@ -1,0 +1,27 @@
+server: 
+  port: 9008
+spring: 
+  application:  
+    name: pang-user #指定服务名
+  datasource:  
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.8.33:3336/tensquare_user?characterEncoding=UTF8
+    username: root
+    password: root
+  jpa: 
+    database: MySQL
+    show-sql: true
+
+#rabbitMq
+  rabbitmq:
+    host: 192.168.8.33
+    port: 5672
+  redis:
+    host: 192.168.8.33
+    port: 6378
+
+#jwt
+jwt:
+  config:
+    key: pang
+    ttl: 360000000

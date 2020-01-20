@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c531045-151a-4272-b148-d75997e160b5" name="Default Changelist" comment="base use spring security">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1c531045-151a-4272-b148-d75997e160b5" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/pang_common/target/" />
@@ -76,7 +73,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pang_user/src/main/java/com/pang/user/service/UserService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="370">
@@ -86,6 +83,16 @@
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -241,6 +248,11 @@
             <path>
               <item name="pang_parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="pang_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pang_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pang_parent" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pang_parent" type="b2602c69:ProjectViewProjectNode" />
@@ -600,7 +612,7 @@
       <workItem from="1579412962538" duration="5322000" />
       <workItem from="1579420654293" duration="736000" />
       <workItem from="1579421565913" duration="3476000" />
-      <workItem from="1579480454123" duration="16466000" />
+      <workItem from="1579480454123" duration="17159000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1578476983452</created>
@@ -679,7 +691,21 @@
       <option name="project" value="LOCAL" />
       <updated>1579512998509</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="base use spring security">
+      <created>1579513256106</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1579513256106</updated>
+    </task>
+    <task id="LOCAL-00013" summary="base use spring security">
+      <created>1579513312700</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1579513312700</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -715,7 +741,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130087000" />
+    <option name="totallyTimeSpent" value="130780000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -728,10 +754,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6857143" visible="true" weight="0.2803838" />
-      <window_info id="Structure" order="1" sideWeight="0.31428573" side_tool="true" visible="true" weight="0.2803838" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6866883" visible="true" weight="0.2803838" />
+      <window_info id="Structure" order="1" sideWeight="0.3133117" side_tool="true" visible="true" weight="0.2803838" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -745,17 +770,17 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33296824" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" weight="0.3286334" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33188722" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.29609543" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Spring" order="13" weight="0.3286334" />
-      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.329718" />
       <window_info anchor="bottom" id="Tail" order="15" />
       <window_info anchor="bottom" id="Messages" order="16" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="17" visible="true" weight="0.3546638" />
+      <window_info anchor="bottom" id="Run Dashboard" order="17" weight="0.3546638" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -782,27 +807,14 @@
     <MESSAGE value="base use jpa" />
     <MESSAGE value="base use aliyunSms" />
     <MESSAGE value="base use mongodb" />
-    <option name="LAST_COMMIT_MESSAGE" value="base use mongodb" />
+    <MESSAGE value="base use spring security" />
+    <option name="LAST_COMMIT_MESSAGE" value="base use spring security" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://E:/Downloads/apache-maven-3.6.1-bin/repository/org/springframework/data/spring-data-commons/2.0.6.RELEASE/spring-data-commons-2.0.6.RELEASE.jar!/org/springframework/data/repository/PagingAndSortingRepository.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="12" column="66" lean-forward="true" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Downloads/apache-maven-3.6.1-bin/repository/org/springframework/data/spring-data-commons/2.0.6.RELEASE/spring-data-commons-2.0.6.RELEASE.jar!/org/springframework/data/repository/Repository.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pang_search/src/main/java/com/pang/search/dao/ArticleSearchDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -1209,6 +1221,12 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">

@@ -1,0 +1,6 @@
+server:
+  port: 8001
+spring:
+  rabbitmq:
+    host: 192.168.8.33
+    port: 5672
