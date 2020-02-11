@@ -19,6 +19,8 @@
         <module>pang_rabbitmqTest</module>
         <module>pang_user</module>
         <module>pang_sms</module>
+        <module>pang_eureka</module>
+        <module>pang_friend</module>
     </modules>
     <packaging>pom</packaging>
 
@@ -36,6 +38,17 @@
             8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
     </properties>
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-dependencies</artifactId>
+                <version>Finchley.M9</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>

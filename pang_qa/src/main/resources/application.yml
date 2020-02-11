@@ -1,5 +1,5 @@
 server: 
-  port: 9002
+  port: 9004
 spring: 
   application:  
     name: pang-qa #指定服务名
@@ -11,3 +11,14 @@ spring:
   jpa: 
     database: MySQL
     show-sql: true
+
+jwt:
+config:
+key: pang
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:6868/eureka/
+  instance:
+    prefer-ip-address: true
